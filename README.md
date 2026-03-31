@@ -15,7 +15,7 @@ Hệ thống tự đánh giá năng lực số dành cho người học tại Vi
 
 ### 1. 🔐 Hệ thống xác thực & Hồ sơ
 - Đăng ký/Đăng nhập bằng Email & Password.
-- Tích hợp **Google Sign-In v7.x** (Singleton Pattern).
+- Đang phát triển **Google Sign-In v7.x** (Singleton Pattern).
 - Màn hình thiết lập hồ sơ (Họ tên, Ngày sinh, Niên khóa, Lớp) với hệ thống Validation chuẩn format.
 
 ### 2. 📊 Dashboard Trực quan
